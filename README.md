@@ -1,8 +1,14 @@
-# React + Vite
+# Agency Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+`Tech stack used in this project`
+* [x] React
+* [x] react-router-dom
+* [x] framer-motion
+* [x] tailwindcss
+* [x] react-icons
 
-Currently, two official plugins are available:
+`Purpose of this project`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- To learn further about framer motion
+
+**The course that I followed to build this project can be found here on [Udemy](https://www.udemy.com/course/tailwind-css-agency-website-with-react-and-framer-motion/?kw=Tailwind+CSS+Agency+Website+with+React+and+Framer+Motion&src=sac)**
